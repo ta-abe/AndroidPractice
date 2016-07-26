@@ -26,3 +26,4 @@ proguard/
 app/build/
 .DS_Store
 *.png
+*.jar
