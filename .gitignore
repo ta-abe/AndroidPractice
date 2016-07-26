@@ -25,3 +25,4 @@ proguard/
 .gradle
 app/build/
 .DS_Store
+*.png
